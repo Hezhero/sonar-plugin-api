@@ -20,7 +20,7 @@
 package org.sonar.api.security;
 
 import javax.annotation.Nullable;
-import javax.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletRequest;
 
 /**
  * Note that prefix "do" for names of methods is reserved for future enhancements, thus should not be used in subclasses.
